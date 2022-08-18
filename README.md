@@ -1,5 +1,5 @@
 
-[![MasterHead](https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Collins kiplang'at</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/3o7bu0ZqQpOQQk3mZE/giphy.gif](https://www.google.com/search?q=CODING+GIFS&rlz=1C1YTUH_enKE1015KE1015&oq=coding+&aqs=chrome.0.69i59j69i57j0i67l2j46i67i175i199j69i61j69i60l2.3839j0j7&sourceid=chrome&ie=UTF-8#imgrc=ItVEdfLwG7yO7M)">
