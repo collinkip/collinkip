@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [an Event Driven](https://github.com/collinkip/eventdriven)
 
-- 🌱 I’m currently learning **Fastapi,Nextjs and AWS**
+- 🌱 I’m currently learning **Fastapi,Nextjs,Flutter and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/collinkip](https://github.com/collinkip)
 
